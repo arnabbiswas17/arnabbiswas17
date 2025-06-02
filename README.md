@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Biswas</h1>
-<h3 align="center">I'm an undergraduate Computer Science and Engineering student with a deep passion for programming and problem-solving. Welcome to my GitHub corner, where lines of code come to life and projects take shape.</h3>
+<h3 align="center">I'm a graduate in Computer Science and Engineering with a deep passion for programming and problem-solving. Welcome to my GitHub corner, where lines of code come to life and projects take shape.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
